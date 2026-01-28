@@ -1,0 +1,18 @@
+.icon-box {
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.contact-icon {
+  width: 2rem;
+  height: 2rem;
+object-fit: contain;
+}
+
+.skills-logo{
+    border-radius: 5%;
+}
+
+#backgroud-color{
+    background-color: navy;
+}
